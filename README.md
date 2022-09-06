@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Yeonhoo%Park)
+![reversal](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Yeonhoo%Park)
 
 
 <!--
